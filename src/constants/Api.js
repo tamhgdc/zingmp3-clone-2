@@ -1,21 +1,21 @@
 export const HOME_API =
-  "https://server-zing-mp3-dgoywdph8-levietphu.vercel.app/api/home?page=";
+  "https://zingmp3-indol.vercel.app/api/home?page=";
 export const MV_API =
-  "https://server-zing-mp3-dgoywdph8-levietphu.vercel.app/api/listmv?id=";
+  "https://zingmp3-indol.vercel.app/api/listmv?id=";
 export const Category_mv =
-  "https://server-zing-mp3-dgoywdph8-levietphu.vercel.app/api/categorymv?id=";
+  "https://zingmp3-indol.vercel.app/api/categorymv?id=";
 export const GET_SONG =
-  "https://server-zing-mp3-dgoywdph8-levietphu.vercel.app/api/song?id=";
+  "https://zingmp3-indol.vercel.app/api/song?id=";
 export const GET_INFO_SONG =
-  "https://server-zing-mp3-dgoywdph8-levietphu.vercel.app/api/infosong?id=";
+  "https://zingmp3-indol.vercel.app/api/infosong?id=";
 export const GET_PLAYLIST =
-  "https://server-zing-mp3-dgoywdph8-levietphu.vercel.app/api/detailplaylist?id=";
+  "https://zingmp3-indol.vercel.app/api/detailplaylist?id=";
 export const GET_VIDEO =
-  "https://server-zing-mp3-dgoywdph8-levietphu.vercel.app/api/video?id=";
+  "https://zingmp3-indol.vercel.app/api/video?id=";
 export const SEARCH =
-  "https://server-zing-mp3-dgoywdph8-levietphu.vercel.app/api/search?keyword=";
+  "https://zingmp3-indol.vercel.app/api/search?keyword=";
 export const GETLYRIC =
-  "https://server-zing-mp3-dgoywdph8-levietphu.vercel.app/api/lyric?id=";
+  "https://zingmp3-indol.vercel.app/api/lyric?id=";
 
 // export const HOME_API = "https://music-player-pink.vercel.app/api/home?page=";
 // export const MV_API = "https://music-player-pink.vercel.app/api/listMV?id=";
